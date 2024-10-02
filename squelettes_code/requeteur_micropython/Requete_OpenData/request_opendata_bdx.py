@@ -4,7 +4,6 @@ from https_client_lib import HTTPClient  # Importer votre bibliothèque
 ssid = 'Les Usines'
 password = 'usinesnouvelles'
 host = 'opendata.bordeaux-metropole.fr'
-
 # Intégrer la clé API dans le path (si nécessaire)
 #path = '/geojson/features/pc_captv_p?filter=%7B%22gid%22%3A%222451%22%7D&attributes=%5B%22gid%22%2C%22comptage_5m%22%2C%22mdate%22%2C%22libelle%22%5D&maxfeatures=3&orderby=&key=K7CB2JBXGI'
 path = '/api/explore/v2.1/catalog/datasets/bor_frequentation_piscine_tr/records?limit=20'
