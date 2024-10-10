@@ -10,4 +10,11 @@ Ici un petit dépôt où tu trouveras des ressources utiles pour créer ton POCL
 ### Documentation ESP32 WROOM
 - Brochage :
 ![Wromm32 Pinout](https://www.upesy.fr/cdn/shop/articles/doc-esp32-pinout-reference-wroom-devkit_9db79068-c59c-4142-91f0-bb361d3b7dac.jpg?v=1706553444)
-## Cette page est en cours de rédaction, elle sera prête le jour J
+
+### Wifi
+
+ssid = 'centres_animation_bdx_prive'
+
+password = '&dk0r9vvnD&'
+
+## Cette page est en cours de rédaction
