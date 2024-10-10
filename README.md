@@ -17,4 +17,10 @@ ssid = 'centres_animation_bdx_prive'
 
 password = Vous nous demandez !
 
+### Requeteurs Swagger
+
+XTRADATA (Nécéssite une clef API) : https://data.bordeaux-metropole.fr/geojson/help/#/default
+
+OPENDATA : https://opendata.bordeaux-metropole.fr/api/explore/v2.1/console
+
 ## Cette page est en cours de rédaction
