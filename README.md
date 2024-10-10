@@ -15,6 +15,6 @@ Ici un petit dépôt où tu trouveras des ressources utiles pour créer ton POCL
 
 ssid = 'centres_animation_bdx_prive'
 
-password = '&dk0r9vvnD&'
+password = Vous nous demandez !
 
 ## Cette page est en cours de rédaction
