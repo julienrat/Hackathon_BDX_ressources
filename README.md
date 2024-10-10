@@ -14,6 +14,8 @@ Ici un petit dépôt où tu trouveras des ressources utiles pour créer ton POCL
 - https://www.wikidebrouillard.org/wiki/Utiliser_l%27ESP32_avec_le_logiciel_Arduino
 #### Moteur pas a pas :
 - https://arduino-france.site/moteur-pas-a-pas/
+#### Leds NEOPIXELS
+- chercher dans la lib led adafruit neopixels
 ### Documentation ESP32 WROOM
 - Brochage :
 ![Wromm32 Pinout](https://mischianti.org/wp-content/uploads/2021/03/ESP32-DOIT-DEV-KIT-v1-pinout-mischianti-1536x752.jpg)
